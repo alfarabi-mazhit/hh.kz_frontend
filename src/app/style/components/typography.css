@@ -1,0 +1,33 @@
+h1 {
+  font-size: 24px;
+}
+h2 {
+  font-size: 20px;
+}
+
+h3,
+.h3 {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+h4,
+.h4 {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.link {
+  color: #589beb;
+  text-decoration: none;
+}
+
+.error {
+  color: red;
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 4px;
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+}
